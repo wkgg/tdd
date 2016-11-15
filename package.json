@@ -1,0 +1,26 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "tdd sample",
+  "main": "test.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkgg/tdd.git"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "Amos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wkgg/tdd/issues"
+  },
+  "homepage": "https://github.com/wkgg/tdd#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
